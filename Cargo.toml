@@ -1,0 +1,6 @@
+[package]
+name = "rust-and-reason"
+version = "0.0.0"
+edition = "2023"
+
+[dependencies]
